@@ -1,8 +1,9 @@
+Challenge 30 DAYS Complete Basics
+------------------------------------
 # javascript_chaiCode
 A code on JavaScript Series 
 
-Challenge 30 DAYS Complete Basics
-------------------------------------
+
 > #                                               W  O  R  K  I  N  G    <br />    O  N    <br />    T  H  E   <br />    G  I  T  H  U  B
 
 
