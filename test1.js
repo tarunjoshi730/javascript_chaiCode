@@ -1,3 +1,5 @@
+//                                                           DAY 2
+
 console.log("Tarun Joshi");
 
 /* 2 types of software is used 
