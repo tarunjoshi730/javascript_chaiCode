@@ -43,7 +43,7 @@ let isLogged = false // boolean
     -> String => used without double quotes & double quotes also but prefer double quotes
     -> Boolean => True/False
     -> null => Standalone value
-    -> undefined => undefined value
+    -> undefined => undefined value assigned nahi hue hai
     -> symbol => unique
 */
 
