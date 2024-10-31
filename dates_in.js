@@ -1,6 +1,6 @@
 
 let MyDate = new Date();
-console.log(typeof MyDate)
+console.log(typeof MyDate)     // Object
 console.log(MyDate)     // 2024-07-23T08:50:21.368Z
 console.log(MyDate.toString())  // Tue Jul 23 2024 14:20:21 GMT+0530 (India Standard Time)
 console.log(MyDate.toDateString())  // Tue Jul 23 2024
