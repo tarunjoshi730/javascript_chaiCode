@@ -48,7 +48,7 @@ let isLogged = false // boolean
 */
 
 // Object 
-
+console.log("next object see");
 console.log(typeof undefined);
 console.log(typeof null);
 console.log(typeof age);
